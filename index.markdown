@@ -12,8 +12,9 @@ Department of Earth and Planetary Sciences, The University of Texas at Austin
 2275 Speedway Stop C9000, Austin, TX 78712-1722  
 Phone: (737) 420-8014  
 Email: sasanka@utexas.edu  
-GitHub: SasTalukdar  
-LinkedIn: SasTalukdar
+GitHub: [SasTalukdar](https://github.com/SasTalukdar)  
+LinkedIn: [SasTalukdar](https://www.linkedin.com/in/sastalukdar)  
+Google Scholar: [Sasanka Talukdar](https://scholar.google.com/citations?user=SasankaTalukdar)
 
 ## Education
 **The University of Texas at Austin, Austin, TX**  
