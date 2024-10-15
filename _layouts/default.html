@@ -1,6 +1,22 @@
-<footer>
-  <p>© 2024 UT Austin, Department of Earth and Planetary Sciences</p>
-  <img src="assets/images/ut-austin-logo.png" alt="UT Austin Logo">
-  <img src="assets/images/department-logo.png" alt="Department Logo">
-</footer>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+      <p>© 2024 UT Austin, Department of Earth and Planetary Sciences</p>
+      <img src="assets/ut_autin.png" alt="UT Austin Logo">
+      <img src="assets/eps" alt="Department Logo">
+    </footer>
+</body>
+</html>

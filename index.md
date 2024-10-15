@@ -5,7 +5,7 @@ title: Home
 
 # Sasanka Talukdar
 
-![My Professional Headshot](assets/Sasanka.png)
+<img src="assets/Sasanka.png" alt="My Professional Headshot" width="150" height="200">
 
 ## Contact Information
 Department of Earth and Planetary Sciences, The University of Texas at Austin  
